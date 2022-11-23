@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BTapGiuaKi</string>
+    <string name="bottom_home">Home</string>
+    <string name="bottom_profile">Profile</string>
+    <string name="bottom_setting">Setting</string>
+</resources>

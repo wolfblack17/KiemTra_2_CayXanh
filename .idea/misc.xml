@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/drawable-v24/anim_scale.xml" value="0.2265" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/drawable-v24/bg_main.xml" value="0.2265" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/drawable-v24/bgedtext.xml" value="0.2265" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/drawable-v24/bgwelcome.xml" value="0.2265" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/drawable-v24/btn_bg_wc.xml" value="0.2265" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/drawable-v24/button_back.xml" value="0.2265" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/drawable-v24/errorbg.xml" value="0.2265" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/drawable-v24/ic_baseline_add_24.xml" value="0.2265" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/drawable-v24/ic_baseline_email_24.xml" value="0.2265" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/drawable-v24/ic_baseline_lock_24.xml" value="0.2265" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/drawable-v24/ic_baseline_people_24.xml" value="0.2265" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/drawable-v24/ic_wave.xml" value="0.2265" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/drawable-v24/progress_back.xml" value="0.2265" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/drawable-v24/round_bg.xml" value="0.2265" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/drawable-v24/round_border.xml" value="0.2265" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/font/aclonica.xml" value="0.284375" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/layout/activity_add_tree.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/layout/activity_edit_tree.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/layout/activity_main.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/layout/activity_signin.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/layout/activity_signup.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/layout/dialog_create_tree.xml" value="0.2076923076923077" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/layout/dialog_createtree.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/layout/fragment_home.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/This PC/Documents/CuoiKy_FireBase/app/src/main/res/layout/row_tree.xml" value="0.264" />
+        <entry key="..\:/projectFireBase/KiemTra_2_CayXanh-main/app/src/main/res/layout/activity_add_tree.xml" value="0.203125" />
+        <entry key="..\:/projectFireBase/KiemTra_2_CayXanh-main/app/src/main/res/layout/activity_main.xml" value="0.203125" />
+        <entry key="..\:/projectFireBase/KiemTra_2_CayXanh-main/app/src/main/res/layout/activity_signin.xml" value="0.18229166666666666" />
+        <entry key="..\:/projectFireBase/KiemTra_2_CayXanh-main/app/src/main/res/layout/activity_signup.xml" value="0.18229166666666666" />
+        <entry key="..\:/projectFireBase/KiemTra_2_CayXanh-main/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.203125" />
+        <entry key="..\:/projectFireBase/KiemTra_2_CayXanh-main/app/src/main/res/layout/detail_tree.xml" value="0.18229166666666666" />
+        <entry key="..\:/projectFireBase/KiemTra_2_CayXanh-main/app/src/main/res/layout/dialog_create_tree.xml" value="0.18229166666666666" />
+        <entry key="..\:/projectFireBase/KiemTra_2_CayXanh-main/app/src/main/res/layout/fragment_home.xml" value="0.18229166666666666" />
+        <entry key="..\:/projectFireBase/KiemTra_2_CayXanh-main/app/src/main/res/layout/row_tree.xml" value="0.18229166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
